@@ -1,0 +1,2 @@
+FROM nginix
+COPY ./default.conf /etc/nginix/conf.d/default.conf
